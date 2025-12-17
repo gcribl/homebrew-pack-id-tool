@@ -3,7 +3,7 @@ class PackIdTool < Formula
 
   desc "CLI tool to modify Cribl pack IDs in .crbl files"
   homepage "https://github.com/gcribl/pack-cli"
-  url "https://github.com/yourusername/pack-cli/archive/refs/tags/v1.0.0.tar.gz"
+  url "https://github.com/gcribl/pack-cli/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "992078c38950f764e76474a92a90eb2aca19981ada1a135b93bba10ed1d04342"
   license "MIT"
 
